@@ -6,7 +6,7 @@ This bot will send Email
 #### Step 1:
 Enable 2 step authentication in email used for sending.<br/>
 #### Step 2:
-now below two step authentication and option will be available "App Password".<br/>
+now below two step authentication an option will be available "App Password".<br/>
 #### Step 3:
 goto "App Password"<br/>
       i. Select App: Mail<br/>
@@ -21,7 +21,7 @@ while running for first time you need to choose initialize option first
 enter gmail and app password that you have generated<br/>
 note: this gmail will be used for sending mails
 #### Step 7:
-now you can simple select sendmail and give the correct input
+now you can simply select sendmail and give the correct input
 #### Step 8:
 Always exit the program using option 3. Exit<br/>
 in that you have 2 options<br/>
