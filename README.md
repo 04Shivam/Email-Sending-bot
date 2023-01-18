@@ -15,16 +15,16 @@ goto "App Password"<br/>
 Note Down this app password
 ### Using bot
 #### Step 5:
-Run "email_bot.exe" or you can run "email_bot.py"<br\>
+Run "email_bot.exe" or you can run "email_bot.py"<br/>
 while running for first time you need to choose initialize option first
 #### Step 6: 
-enter gmail and app password that you have generated<br\>
+enter gmail and app password that you have generated<br/>
 note: this gmail will be used for sending mails
 #### Step 7:
 now you can simple select sendmail and give the correct input
 #### Step 8:
-Always exit the program using option 3. Exit<br\>
-in that you have 2 options<br\>
+Always exit the program using option 3. Exit<br/>
+in that you have 2 options<br/>
 1. save the gmail and your password. When you again run application you don't need to initialize.
 2. Don't save gamil and password. You need to initialize when you run program for next time.
 ### That's it 
