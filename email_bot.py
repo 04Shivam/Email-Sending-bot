@@ -40,7 +40,7 @@ try:
                 subject=input("Subject: ")
                 mess=input("Message (Enter Send to send mail):\n")
                 while True:
-                    if(mess=='Send' or mess=='SEND' or mess=='send'):
+                    if(mess=='Send' or mess=='SEND' or mess=='send' or mess=='"send"'):
                         break
                     with open("message.txt",'a') as mess_file:
                         mess_file.write('\n'+mess)
